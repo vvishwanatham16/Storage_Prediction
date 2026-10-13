@@ -5,5 +5,5 @@ matplotlib
 scikit-learn
 plotly
 xgboost
-openpyxlt
+openpyxl
 
